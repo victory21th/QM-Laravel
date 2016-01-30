@@ -1,0 +1,1 @@
+curl -s http://queuesmart.ly/batch/agent/process/end > /dev/null

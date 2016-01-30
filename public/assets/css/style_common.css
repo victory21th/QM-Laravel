@@ -1,0 +1,147 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(http://fonts.googleapis.com/css?family=Bitter:400,700,400italic&subset=latin,latin-ext);
+
+body {
+	font-family: 'Droid Sans';
+}
+
+.font-size-sm {
+	font-size: 12px;
+}
+
+.color-gray {
+	color: #999;
+}
+
+.color-gray-dark {
+	color: #3c3c3c;
+}
+
+.color-white {
+	color: #FFF;
+}
+
+.margin-top-xs {
+	margin-top: 10px;
+}
+
+.margin-top-sm {
+	margin-top: 20px;
+}
+
+.margin-top-normal {
+	margin-top: 30px;
+}
+
+.margin-top-lg {
+	margin-top: 50px;
+}
+
+.margin-top-xl {
+	margin-top: 100px;
+}
+
+.margin-bottom-xs {
+	margin-bottom: 10px;
+}
+
+.margin-bottom-sm {
+	margin-bottom: 20px;
+}
+
+.margin-bottom-normal {
+	margin-bottom: 30px;
+}
+
+.margin-bottom-lg {
+	margin-bottom: 50px;
+}
+
+.margin-bottom-xl {
+	margin-bottom: 100px;
+}
+
+.padding-top-xs {
+	padding-top: 10px;
+}
+
+.padding-top-sm {
+	padding-top: 20px;
+}
+
+.padding-top-normal {
+	padding-top: 30px;
+}
+
+.padding-top-lg {
+	padding-top: 50px;
+}
+
+.padding-top-xl {
+	padding-top: 100px;
+}
+
+.padding-bottom-xs {
+	padding-bottom: 10px;
+}
+
+.padding-bottom-sm {
+	padding-bottom: 20px;
+}
+
+.padding-bottom-normal {
+	padding-bottom: 30px;
+}
+
+.padding-bottom-lg {
+	padding-bottom: 50px;
+}
+
+.padding-bottom-xl {
+	padding-bottom: 100px;
+}
+
+.readonly {
+	background: #FFF !important;
+	cursor: pointer !important;
+}
+
+.top-buttons {
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+.min-height {
+	min-height: 500px;
+}
+
+.font-bold {
+	font-weight: bold;
+}
+
+.color-green {
+	color: #4cfa29;
+}
+
+.color-gray-light {
+	color: #999;
+}
+
+.font-size-full {
+	font-size: 100%;
+}
+
+.readonly-white {
+	background: #FFF !important;
+	cursor: pointer !important;
+}
+
+.footer-background {
+	background: #42A477;
+}
+
+.logo-title {
+	color: #FFF;
+	font-size: 16px;
+}
+

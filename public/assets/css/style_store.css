@@ -1,0 +1,47 @@
+@import url(http://fonts.googleapis.com/css?family=Nunito);
+
+body {
+	font-family: 'Nunito', sans-serif;
+}
+
+.tv-containter {
+	width: 1280px;
+	height: 720px;
+	margin: 0px auto;
+}
+
+.header-100 {
+	height: 100px;
+	line-height: 100px;
+}
+
+.header-300 {
+	height: 300px;
+	line-height: 300px;
+}
+
+.font-size-lg {
+	font-size: 180px;
+}
+
+.font-size-sm {
+	font-size: 55px;
+}
+
+.slider-container {
+	position: absolute;
+	top: 100px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	width: 100%;
+	height: 620px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+.slider-piece {
+	width: 100%;
+}
+.ls-nav-prev, .ls-nav-next {
+	display: none !important;
+}

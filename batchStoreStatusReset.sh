@@ -1,0 +1,1 @@
+curl -s http://queuesmart.ly/batch/store/status/reset > /dev/null
